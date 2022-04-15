@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Suyog Supriya')
+streamlit.title('We are Indians')
